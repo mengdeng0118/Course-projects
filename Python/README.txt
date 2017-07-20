@@ -41,4 +41,4 @@ Instruction to run the python code:
 	2. Feature number: [200, 500, 1000, 1500]
 	3. max tree depth: [5, 10, 15, 20]
 	4. tree number: [10, 25, 50, 100]
-* The results of all the comparison can be found in the results folder. }
+* The results of all the comparison can be found in the results folder. 
